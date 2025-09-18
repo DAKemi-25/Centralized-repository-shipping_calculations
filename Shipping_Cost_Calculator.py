@@ -1,4 +1,5 @@
 # Shipping Cost Calculator
+# Added a test line to create a new commit
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
